@@ -2,8 +2,7 @@
 
 # End-to-end-Medical-Chatbot-using-Llama2
 
-# How to run?
-### STEPS:
+### Instructions to Run the Application:
 
 ### STEP 01- Create the CONDA environment
 
