@@ -1,10 +1,10 @@
 # MedIQ
 
-# End-to-end-Medical-Chatbot-using-Llama2
+# Medical-Chatbot
 
 ### Instructions to Run the Application:
 
-### STEP 01- Create the CONDA environment
+### STEP 1 - Create the CONDA environment
 
 Creating Environment:
 ```bash
@@ -16,7 +16,7 @@ Activating Environment:
 conda activate mchatbot
 ```
 
-### STEP 02- install the requirements
+### STEP 2 - install the requirements
 
 Installing all frameworks and libraries listed in `requirements.txt`:
 ```bash
